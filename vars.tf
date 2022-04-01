@@ -12,5 +12,5 @@ variable "sleepy_time" {
 
 variable "release_version" {
   description = "Verifying purpose"
-  default     = "13.0.0"
+  default     = "1.1.5"
 }
